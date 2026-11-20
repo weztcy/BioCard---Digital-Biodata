@@ -20,10 +20,7 @@
   "accentColor": "amber",
   "repoUrl": "https://github.com/weztcy/BioCard---Digital-Biodata",
   "license": "MIT License",
-  "imageUrl": "/images/projects/biocard_digital_biodata/banner.webp",
-  "images": [
-    "/images/projects/biocard_digital_biodata/banner.webp"
-  ],
+  "banner": "/images/projects/biocard_digital_biodata/banner.webp",
   "summary": "An offline-first Android application designed to build, manage, and share comprehensive digital biodata cards with zero external telemetry.",
   "projectDescription": "BioCard transforms physical paper biodata into an elegant, interactive digital profile card on Android. Built with native Java, Android Jetpack, MVVM, and Room SQLite, it provides immediate input validation, complete offline persistence, and seamless system sharing with zero telemetry.",
   "architectureSummary": "Native Android MVVM architecture with Room SQLite persistence, LiveData reactive state, and sandboxed private photo storage.",
